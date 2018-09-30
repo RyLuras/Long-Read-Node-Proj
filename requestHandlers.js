@@ -1,4 +1,4 @@
-/* eslint-disable no-console */
+/* eslint-disable no-console, no-unused-vars*/
 const querystring = require('querystring');
 const fs = require('fs');
 const formidable = require('formidable');
